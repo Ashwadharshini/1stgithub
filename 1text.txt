@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 nill is stupid vert much
+=======
+git 
+>>>>>>> 3e7d744782fedb4dfec43e65a32fe60daf8a77e1
